@@ -1,0 +1,7 @@
+const ClearAll = document.querySelector('data-all-clear')
+const Delete = document.querySelector('data-delete')
+const Equals = document.querySelector('data-equals')
+const Previous = document.querySelector('data-previous-operand')
+const Current = document.querySelector('data-current-operand')
+const Numbers = document.querySelectorAll('[data-number]')
+const Operation = document.querySelectorAll('[data-operation]')
